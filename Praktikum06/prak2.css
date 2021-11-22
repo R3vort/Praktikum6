@@ -1,0 +1,44 @@
+div#A1{
+   position: absolute;
+   width: 1000px;
+   height: 125px;
+   top: 0px;
+   left: 0px;
+   background-color: darkgreen;
+}
+
+div#A2{
+   position: absolute;
+   width: 150px;
+   height: 150px;
+   top: 200px;
+   left: 10px;
+   background-color: yellow;
+}
+
+div#A3{
+   position: absolute;
+   width: 150px;
+   height: 150px;
+   top: 400px;
+   left: 10px;
+   background-color: yellow;
+}
+
+div#A4{
+   position: absolute;
+   width: 750px;
+   height: 150px;
+   top: 200px;
+   left: 250px;
+   background-color: darkorange;
+}
+
+div#A5{
+   position: absolute;
+   width: 750px;
+   height: 150px;
+   top: 400px;
+   left: 250px;
+   background-color: cyan;
+}

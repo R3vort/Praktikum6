@@ -1,0 +1,53 @@
+div#A1{
+   position: absolute;
+   width: 125px;
+   height: 125px;
+   top: 0px;
+   left: 25px;
+   background-color: yellow;
+}
+
+div#A2{
+   position: absolute;
+   width: 750px;
+   height: 125px;
+   top: 0px;
+   left: 200px;
+   background-color: red;
+}
+
+div#A3{
+   position: absolute;
+   width: 125px;
+   height: 300px;
+   top: 150px;
+   left: 25px;
+   background-color: darkgreen;
+}
+
+div#A4{
+   position: absolute;
+   width: 600px;
+   height: 300px;
+   top: 150px;
+   left: 200px;
+   background-color: grey;
+}
+
+div#A5{
+   position: absolute;
+   width: 125px;
+   height: 300px;
+   top: 150px;
+   right: 75px;
+   background-color: cyan;
+  
+}
+
+div#A6{
+   position: absolute;
+   width: 925px;
+   height: 125px;
+   bottom: 75px;
+   left: 25px;
+   background-color: darkblue;   
